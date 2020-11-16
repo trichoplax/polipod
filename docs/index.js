@@ -6,4 +6,4 @@ for (i=0; i<3; i++) {
     alert(count += increment)
 }
 
-alert('index.js present')
+alert('index.js present version 2')
