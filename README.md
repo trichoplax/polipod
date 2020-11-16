@@ -6,7 +6,7 @@ Demo using [wasm](https://webassembly.org/) for multiple programming languages o
 
 ## Running locally for development
 
-Due to CORS (Cross Origin Resource Sharing) rules, the JavaScript modules cannot be accessed when opening the `index.html` page in a web browser directly from the local file system. Instead it must be viewed by serving it from a local server.
+Due to CORS (Cross Origin Resource Sharing) rules, the JavaScript modules cannot be accessed when opening the `index.html` page in a web browser directly from the local file system. Instead it can be viewed by serving it from a local server.
 
 For example, if you have Python 3 installed you can run the following from the `docs` folder:
 
