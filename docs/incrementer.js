@@ -1,1 +1,1 @@
-export const x = 1
+export const increment = x => x + 1

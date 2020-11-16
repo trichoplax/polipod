@@ -1,9 +1,10 @@
-import {x} from './incrementer.js'
+import {increment} from './incrementer.js'
 
 let count = 0
 
 for (let i=0; i<3; i++) {
-    alert(count += x)
+    count = increment(count)
+    alert(count)
 }
 
-alert('index.js present version 2')
+alert('index.js present version 3')
