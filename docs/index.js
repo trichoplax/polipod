@@ -6,9 +6,9 @@ const context = canvas.getContext('2d')
 let red = 0
 let green = 0
 let blue = 0
-let changeColourActive = true
 
 const changeColourCheckbox = document.getElementById('change_colour')
+let changeColourActive = changeColourCheckbox.checked
 changeColourCheckbox.addEventListener('change', () => {
     changeColourActive = changeColourCheckbox.checked
 })
