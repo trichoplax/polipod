@@ -1,10 +1,4 @@
-import {increment} from './incrementer.js'
-
-let count = 0
-
-for (let i=0; i<3; i++) {
-    count = increment(count)
-    alert(count)
-}
-
-alert('index.js present version 3')
+const canvas = document.getElementById('polipod_canvas')
+const context = canvas.getContext('2d')
+context.rect(10,10,50,50)
+context.fill()
