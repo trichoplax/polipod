@@ -1,4 +1,4 @@
-import {squareColour} from './square_colour.js'
+import {squareColour} from './modules/square_colour.js'
 
 const canvas = document.getElementById('polipod_canvas')
 const context = canvas.getContext('2d')
