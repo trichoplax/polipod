@@ -1,4 +1,4 @@
-import {squareColour} from './modules/square_colour.js'
+import {squareColour} from 'https://unpkg.com/@trichoplax/polipod_colours_js@0.0.0/index.js'
 
 const canvas = document.getElementById('polipod_canvas')
 const context = canvas.getContext('2d')
