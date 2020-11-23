@@ -31,7 +31,7 @@ const renderLoop = () => {
     }
 
     context.fillStyle = `rgb(${red}, ${green}, ${blue})`
-    context.fillRect(angle + 10, 10, angle + 50, 50)
+    context.fillRect(angle + 10, 10, 50, 50)
 
     window.requestAnimationFrame(renderLoop)
 }
