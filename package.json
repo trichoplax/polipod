@@ -1,0 +1,31 @@
+{
+  "name": "polipod",
+  "version": "1.0.0",
+  "description": "*UNDER CONSTRUCTION: NOT YET WORKING*",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trichoplax/polipod.git"
+  },
+  "keywords": [],
+  "author": "trichoplax <xalpohcirt@gmail.com> (https://github.com/trichoplax)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trichoplax/polipod/issues"
+  },
+  "homepage": "https://github.com/trichoplax/polipod#readme",
+  "devDependencies": {
+    "webpack": "^5.23.0",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "@trichoplax/polipod_render_js": "^0.0.0"
+  }
+}
