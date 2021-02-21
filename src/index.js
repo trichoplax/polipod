@@ -1,4 +1,4 @@
-import {renderLoop} from 'https://unpkg.com/@trichoplax/polipod_render_js@0.0.1/index.js'
+import {renderLoop} from '@trichoplax/polipod_render_js@0.0.1/index.js'
 
 const canvas = document.getElementById('polipod_canvas')
 const context = canvas.getContext('2d')
