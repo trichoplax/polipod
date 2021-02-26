@@ -26,6 +26,6 @@
     "webpack-cli": "^4.5.0"
   },
   "dependencies": {
-    "@trichoplax/polipod_render_js": "^0.0.0"
+    "@trichoplax/polipod_render_js": "^0.0.2"
   }
 }
