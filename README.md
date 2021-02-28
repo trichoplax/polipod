@@ -4,7 +4,7 @@
 
 Demo using [wasm](https://webassembly.org/) for multiple programming languages on the front end (client side only / browser based)
 
-## :computer: :phone: [View on computer / phone here](https://trichoplax.github.io/polipod)
+## [:computer: :phone: View on computer / phone here](https://trichoplax.github.io/polipod)
 
 No need to download or install. The heading of this section is a link to view the demo.
 
